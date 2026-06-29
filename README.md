@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

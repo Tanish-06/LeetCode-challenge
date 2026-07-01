@@ -38,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -55,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |

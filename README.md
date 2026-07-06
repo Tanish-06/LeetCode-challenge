@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)

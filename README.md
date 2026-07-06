@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
@@ -48,6 +49,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
 ## String

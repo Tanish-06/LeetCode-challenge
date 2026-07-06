@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
@@ -70,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,4 +106,5 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

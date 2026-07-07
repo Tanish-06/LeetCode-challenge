@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

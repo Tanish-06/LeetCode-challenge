@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
@@ -61,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -73,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |

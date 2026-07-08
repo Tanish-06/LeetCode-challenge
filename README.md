@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |

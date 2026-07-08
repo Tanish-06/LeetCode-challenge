@@ -66,6 +66,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -117,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Queue

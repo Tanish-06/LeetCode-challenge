@@ -77,6 +77,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0344-reverse-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |

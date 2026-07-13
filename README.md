@@ -35,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -61,6 +62,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -79,6 +81,7 @@
 | [0383-ransom-note](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -135,6 +138,7 @@
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Queue

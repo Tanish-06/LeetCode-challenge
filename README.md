@@ -147,6 +147,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
@@ -174,4 +175,5 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

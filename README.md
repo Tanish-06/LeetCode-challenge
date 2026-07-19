@@ -153,6 +153,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

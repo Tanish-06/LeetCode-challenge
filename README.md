@@ -130,6 +130,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
@@ -184,6 +185,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -203,6 +205,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0206-reverse-linked-list) |

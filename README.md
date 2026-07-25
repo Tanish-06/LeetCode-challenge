@@ -78,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0125-valid-palindrome) |
@@ -171,6 +172,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |

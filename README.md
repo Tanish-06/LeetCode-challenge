@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +171,7 @@
 | [0283-move-zeroes](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |

@@ -103,6 +103,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -198,6 +199,7 @@
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation

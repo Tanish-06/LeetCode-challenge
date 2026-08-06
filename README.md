@@ -25,6 +25,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
@@ -195,12 +196,14 @@
 | [0020-valid-parentheses](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
 ## Trie

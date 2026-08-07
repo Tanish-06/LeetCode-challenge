@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
@@ -262,4 +263,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

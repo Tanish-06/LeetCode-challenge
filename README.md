@@ -27,6 +27,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -198,6 +199,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0739-daily-temperatures) |
 ## Quicksort
 |  |
 | ------- |

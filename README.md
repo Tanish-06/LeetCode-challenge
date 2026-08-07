@@ -32,6 +32,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1732-find-the-highest-altitude) |
@@ -203,6 +204,7 @@
 | [0844-backspace-string-compare](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -247,6 +249,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Quicksort
 |  |
 | ------- |

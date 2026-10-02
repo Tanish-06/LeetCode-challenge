@@ -37,6 +37,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |

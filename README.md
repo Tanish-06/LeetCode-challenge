@@ -40,6 +40,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Tanish-06/LeetCode-challenge/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Tanish-06/LeetCode-challenge/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1512-number-of-good-pairs](https://github.com/Tanish-06/LeetCode-challenge/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Tanish-06/LeetCode-challenge/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |

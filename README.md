@@ -276,4 +276,8 @@
 | ------- |
 | [0155-min-stack](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0225-implement-stack-using-queues) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

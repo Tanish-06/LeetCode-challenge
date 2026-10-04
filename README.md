@@ -291,4 +291,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0229-majority-element-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

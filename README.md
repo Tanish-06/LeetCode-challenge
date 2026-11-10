@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Tanish-06/LeetCode-challenge/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
